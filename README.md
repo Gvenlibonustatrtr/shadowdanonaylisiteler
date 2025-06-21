@@ -22,7 +22,7 @@
     <td>TÜRK İFŞA İÇİN TIKLA</td>
   </tr>
   <tr>
-    <td><a href="https://t.me/+BNNe5M9W4lZmZWY0" target="_blank"><img src="https://img.shields.io/badgeTÜRK İFŞA İÇİN TIKLA-FFD700?style=for-the-badge&logoColor=black" /></a></td>
+    <td><a href="https://t.me/+BNNe5M9W4lZmZWY0" target="_blank"><img src="https://img.shields.io/badge/TÜRK İFŞA İÇİN TIKLA-FFD700?style=for-the-badge&logoColor=black" /></a></td>
     <td><a href="https://t.me/+BNNe5M9W4lZmZWY0" target="_blank"><img src="https://img.shields.io/badge/TÜRK İFŞA İÇİN TIKLA-006400?style=for-the-badge&logoColor=white" /></a></td>
     <td><a href="https://t.me/+BNNe5M9W4lZmZWY0" target="_blank"><img src="https://img.shields.io/badge/TÜRK İFŞA İÇİN TIKLA-800080?style=for-the-badge&logoColor=white" /></a></td>
     <td><a href="https://t.me/+BNNe5M9W4lZmZWY0" target="_blank"><img src="https://img.shields.io/badge/TÜRK İFŞA İÇİN TIKLA-00CED1?style=for-the-badge&logoColor=black" /></a></td>
