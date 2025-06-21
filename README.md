@@ -16,10 +16,10 @@
     <td><a href="https://t.me/+mlwodSEUV3ZkMjc0" target="_blank"><img src="https://resmim.net/cdn/2025/06/21/TxM791.jpg" width="250" /></a></td>
   </tr>
   <tr>
-    <td>2000TL HOŞ GELDİN BONUSU 🎁</td>
-    <td>1000 TL DENEME BONUSU 🎁</td>
-    <td>750 TL DENEME BONUSU 🎁</td>
-    <td>750 TL DENEME BONUSU 🎁</td>
+    <td>Türk İFşa İçin Tıkla</td>
+    <td>Türk İFşa İçin Tıkla</td>
+    <td>Türk İFşa İçin Tıkla</td>
+    <td>Türk İFşa İçin Tıkla</td>
   </tr>
   <tr>
     <td><a href="https://t.me/+BNNe5M9W4lZmZWY0" target="_blank"><img src="https://img.shields.io/badge/Bonusu_Al-Hemen_Tıkla-FFD700?style=for-the-badge&logoColor=black" /></a></td>
