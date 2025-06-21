@@ -16,16 +16,16 @@
     <td><a href="https://t.me/+mlwodSEUV3ZkMjc0" target="_blank"><img src="https://resmim.net/cdn/2025/06/21/TxM791.jpg" width="250" /></a></td>
   </tr>
   <tr>
-    <td>Türk İFşa İçin Tıkla</td>
-    <td>Türk İFşa İçin Tıkla</td>
-    <td>Türk İFşa İçin Tıkla</td>
-    <td>Türk İFşa İçin Tıkla</td>
+    <td>TÜRK İFŞA İÇİN TIKLA</td>
+    <td>TÜRK İFŞA İÇİN TIKLA</td>
+    <td>TÜRK İFŞA İÇİN TIKLA</td>
+    <td>TÜRK İFŞA İÇİN TIKLA</td>
   </tr>
   <tr>
-    <td><a href="https://t.me/+BNNe5M9W4lZmZWY0" target="_blank"><img src="https://img.shields.io/badge/Bonusu_Al-Hemen_Tıkla-FFD700?style=for-the-badge&logoColor=black" /></a></td>
-    <td><a href="https://t.me/+BNNe5M9W4lZmZWY0" target="_blank"><img src="https://img.shields.io/badge/Bonusu_Al-Hemen_Tıkla-006400?style=for-the-badge&logoColor=white" /></a></td>
-    <td><a href="https://t.me/+BNNe5M9W4lZmZWY0" target="_blank"><img src="https://img.shields.io/badge/Bonusu_Al-Hemen_Tıkla-800080?style=for-the-badge&logoColor=white" /></a></td>
-    <td><a href="https://t.me/+BNNe5M9W4lZmZWY0" target="_blank"><img src="https://img.shields.io/badge/Bonusu_Al-Hemen_Tıkla-00CED1?style=for-the-badge&logoColor=black" /></a></td>
+    <td><a href="https://t.me/+BNNe5M9W4lZmZWY0" target="_blank"><img src="https://img.shields.io/badgeTÜRK İFŞA İÇİN TIKLA-FFD700?style=for-the-badge&logoColor=black" /></a></td>
+    <td><a href="https://t.me/+BNNe5M9W4lZmZWY0" target="_blank"><img src="https://img.shields.io/badge/TÜRK İFŞA İÇİN TIKLA-006400?style=for-the-badge&logoColor=white" /></a></td>
+    <td><a href="https://t.me/+BNNe5M9W4lZmZWY0" target="_blank"><img src="https://img.shields.io/badge/TÜRK İFŞA İÇİN TIKLA-800080?style=for-the-badge&logoColor=white" /></a></td>
+    <td><a href="https://t.me/+BNNe5M9W4lZmZWY0" target="_blank"><img src="https://img.shields.io/badge/TÜRK İFŞA İÇİN TIKLA-00CED1?style=for-the-badge&logoColor=black" /></a></td>
   </tr>
 </table>
 </p>
